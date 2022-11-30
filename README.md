@@ -17,3 +17,9 @@ The most important points to keep in mind while using Monte Carlo simulations ar
 4. The basis of a Monte Carlo simulation involves assigning multiple values to an uncertain variable to achieve multiple results and then averaging the results to obtain an estimate.
 5. Monte Carlo simulations assume perfectly efficient markets.
 
+# Problem 1 : Predicting probability of default of a company using ESG data.
+Due to the small sample size and randomly distributed data, machine learning models are unable to accurately predict the relationship between the input variable and the target variable. As a result, we must perform Monte Carlo simulations and hyperparameter tuning. We have scrapped some ESG scores for a specific company.
+
+# Problem 2 : 
+
+
